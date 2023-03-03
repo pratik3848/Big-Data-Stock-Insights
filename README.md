@@ -1,5 +1,13 @@
 # BIG DATA STOCK INSIGHTS
 
+## Tools and Technologies used
+  ### 1. Spark
+  ### 2. Google Cloude Storage
+  ### 3. MSSQL
+  ### 4. Dataproc
+  ### 5. Google Bigquery
+  ### 6. PowerBI
+
 ## Overview
 
 This project is an implementation of big data stock insights using Spark, Dataproc, GCS, and BigQuery. The goal of this project is to analyze daily and historical stock data of 1500+ stocks to provide valuable insights and improve decision making.
