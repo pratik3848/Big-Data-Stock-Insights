@@ -26,6 +26,9 @@ The data pipeline includes the following steps:
 4.  Loading the optimized data from GCS to the data warehouse using Spark on Dataproc and BigQuery.
 5.  Connecting the data warehouse to PowerBI to create multiple visualizations to get stocks news and history as well as new data.
 
+![image](https://user-images.githubusercontent.com/41427089/231632455-9b302062-bde4-4bf2-946a-6bcf8940b378.png)
+
+
 ## Conclusion
 
 This project showcases the implementation of a scalable big data pipeline for daily and historical stock analysis, improving query response time and providing valuable insights to make better decisions. The automation of the pipeline using Airflow reduces manual effort and ensures the latest insights and news are always available on the dashboard.
